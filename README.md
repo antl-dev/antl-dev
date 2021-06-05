@@ -1,19 +1,12 @@
 **Привет!**
 
-Меня зовут ***Антон***.
-
-В своих проектах я использовал:
-- `HTML5`, `CSS`, `SASS`, `LESS`, `БЭМ`, `CSS Modules`;
-- `JavaScript (ES5/ES6)`;
-- `React (HOOKS)`, `Redux`;
+В своих проектах использовал:
+- `React JS`, `Redux`;
+- `TypeScript`;
+- `HTML5 (PUG JS)`, `CSS (SASS, LESS, БЭМ, CSS Modules)`;
+- `react-router-dom`, `hookrouter`;
+- `Jest`;
 - `REST`,`JSON`;
 - `Webpack`, `Gulp`;
-- `Ant Design`.
+- `Ant Design`, `Material-UI`;
 - `Adobe Photoshop`, `Figma`;
-
-
-Сейчас изучаю:
-- `TypeScript`;
-- `WebSockets`;
-- `React Testing`;
-- `...`
