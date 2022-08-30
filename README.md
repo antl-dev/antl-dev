@@ -1,6 +1,14 @@
-### Hi there 👋, my name is Anton
+<h1 align="center">Hi there, I'm Anton 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a web developer</h3>
 
-#### I am a web developer
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antl-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![codewars](https://www.codewars.com/users/antl-dev/badges/large)   
+ 
+
+
 
 ### Skills:
 
